@@ -1,4 +1,8 @@
-### Hi there 👋
+<!--### Hi there 👋-->
+
+### R is not perfect, but can be extremely useful
+
+#### R (and other open source tools), Hydrology and Water Resources of India, **[nerd stuff](https://orcid.org/0000-0001-6092-0667)**
 
 <!--
 **RationShop/RationShop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
