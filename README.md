@@ -2,13 +2,12 @@
 
 ### R is not perfect, but can be extremely useful for data analysis and graphics
 
-#### R (and other open source tools), Hydrology and Water Resources of India, **[nerd stuff](https://orcid.org/0000-0001-6092-0667)**
+#### Some Projects/Papers on India's Water Resources using R and other open source tools
 
-#### Some Projects/Papers on India's Water Resources
-
-- Water Resources Availability
-- River Basin Boundaries, [Zenodo repo](https://doi.org/10.5281/zenodo.7067699), submitted to Current Science
-- River gauges and basin boundaries, [Zenodo repo](https://doi.org/10.5281/zenodo.7563600), submitted to Earth System Science Data
+- Water resources availability, [Article](https://www.ias.ac.in/describe/article/jess/131/0225), Journal of Earth System Science (2022)
+- Ganga river basin boundaries, [Zenodo repo](https://doi.org/10.5281/zenodo.7067699), submitted to Current Science (Sep. 2022)
+- Dataset on river gauges and basin boundaries, [Zenodo repo](https://doi.org/10.5281/zenodo.7563600), submitted to Earth System Science Data (Feb. 2023)
+- [More info](https://orcid.org/0000-0001-6092-0667)
 
 
 <!--
